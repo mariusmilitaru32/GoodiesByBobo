@@ -68,3 +68,17 @@ a:link {
 	text-decoration: underline;
 	text-decoration-color: #388497;
 }
+
+/* ------------css style for hero image and text------*/
+
+.hero-img {
+	height: 700px;
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+	background: linear-gradient(rgba(4, 5, 10, 0.7), rgba(5, 8, 19, 0.7)), url(/assets/images/header-image.jpg) no-repeat center center;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
