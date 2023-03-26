@@ -82,3 +82,7 @@ a:link {
 	align-items: center;
 	justify-content: center;
 }
+.hero-text {
+	width: 50%;
+	text-align: center;
+}
