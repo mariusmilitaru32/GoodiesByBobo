@@ -169,3 +169,10 @@ a:link {
 	text-align: center;
 	padding: 2% 2%;
 }
+
+/*---------------------------------------Footer css style------------------------*/
+
+hr {
+	border: 2px solid #fa8334;
+	margin-top: 5%;
+}
