@@ -24,3 +24,47 @@ body {
 	font-family: "Montserrat", sans-serif;
 	font-weight: 200;
 }
+
+/*--------------------logo and nav menu style-------------------------*/
+
+.logo-txt {
+	float: left;
+	padding: 20px 0 20px 20px;
+	color: #388497;
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+	font-size: 35px;
+}
+
+h1 span {
+	color: #fa8334;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+.nav-links {
+	display: flex;
+	float: right;
+	font-size: 3vh;
+	padding: 20px;
+	font-weight: 400;
+}
+
+.nav-links a {
+	color: #fa8334;
+}
+
+.nav-links li {
+	display: inline;
+	margin: 0 1vw;
+}
+
+.logo-txt .nav-links {
+	line-height: 30px;
+}
+
+.nav-links ul li:hover {
+	text-decoration: underline;
+	text-decoration-color: #388497;
+}
