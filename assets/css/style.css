@@ -164,3 +164,8 @@ a:link {
 	width: auto;
 	border-radius: 20%;
 }
+
+#review-title {
+	text-align: center;
+	padding: 2% 2%;
+}
