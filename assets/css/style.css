@@ -193,3 +193,8 @@ hr {
 .social-links li {
 	display: inline;
 }
+
+footer > h2 {
+	margin: 0;
+	padding-top: 2%;
+}
