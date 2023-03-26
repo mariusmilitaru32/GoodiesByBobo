@@ -183,3 +183,13 @@ hr {
 	background-color: whitesmoke;
 	text-align: center;
 }
+
+.social-links i {
+	font-size: 200%;
+	color: #fa8334;
+	margin: 2%;
+}
+
+.social-links li {
+	display: inline;
+}
