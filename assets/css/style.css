@@ -97,3 +97,15 @@ a:link {
 	font-size: 20px;
 	color: #ffe882;
 }
+
+.contact-btn {
+	display: inline-block;
+	text-decoration: none;
+	color: #ffe882;
+	border: 1px solid;
+	padding: 12px 30px;
+	background: transparent;
+	position: relative;
+	font-size: 23px;
+	cursor: pointer;
+}
