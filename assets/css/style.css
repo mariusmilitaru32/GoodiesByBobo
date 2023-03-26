@@ -176,3 +176,10 @@ hr {
 	border: 2px solid #fa8334;
 	margin-top: 5%;
 }
+
+.footer {
+	width: 100%;
+	height: auto;
+	background-color: whitesmoke;
+	text-align: center;
+}
