@@ -140,3 +140,27 @@ a:link {
 	height: auto;
 	border-radius: 10px;
 }
+
+.index-reviews {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	width: 100%;
+	justify-content: space-evenly;
+}
+
+.index-reviews-col {
+	max-width: 40%;
+	text-align: left;
+	background: #388497;
+	padding: 10px;
+	vertical-align: center;
+	margin: 15px;
+	border-radius: 20px;
+}
+
+.index-reviews-col > img {
+	height: 50px;
+	width: auto;
+	border-radius: 20%;
+}
