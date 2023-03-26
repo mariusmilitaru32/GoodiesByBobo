@@ -115,3 +115,28 @@ a:link {
 	background: #fa8334;
 	transition: 1s;
 }
+
+/*---------------------- index gallery section css style------------------*/
+
+.index-gallery {
+	display: flex;
+	flex-direction: row;
+	text-align: center;
+	justify-content: center;
+}
+
+.index-gallery-col {
+	padding: 3%;
+	margin: 3%;
+}
+
+.index-gallery-col > p {
+	font-size: large;
+	font-weight: 300;
+}
+
+.index-gallery-col > img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 10px;
+}
