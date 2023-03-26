@@ -109,3 +109,9 @@ a:link {
 	font-size: 23px;
 	cursor: pointer;
 }
+
+.contact-btn:hover {
+	border: 1px solid #fa8334;
+	background: #fa8334;
+	transition: 1s;
+}
