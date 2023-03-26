@@ -76,7 +76,7 @@ a:link {
 	width: 100%;
 	position: relative;
 	overflow: hidden;
-	background: linear-gradient(rgba(4, 5, 10, 0.7), rgba(5, 8, 19, 0.7)), url(/assets/images/header-image.jpg) no-repeat center center;
+	background: linear-gradient(rgba(4, 5, 10, 0.7), rgba(5, 8, 19, 0.7)), url(../images/header-image.jpg) no-repeat center center;
 	background-size: cover;
 	display: flex;
 	align-items: center;
