@@ -254,3 +254,79 @@ footer > h2 {
 	grid-column: 3 / span 1;
 	grid-row: 4 / span 1;
 }
+
+/*--------------------------------------responsive css breakpoints---------------------------------*/
+
+@media screen and (max-width: 1300px) {
+}
+
+@media screen and (max-width: 960px) {
+	.index-reviews {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.index-gallery {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.wrapper {
+		padding: 20px;
+	}
+
+	.gallery {
+		grid-template-columns: repeat(2, 1fr);
+	}
+
+	.gallery_item1 {
+		grid-column: 1 / span 1;
+		grid-row: 1 / span 1;
+	}
+
+	.gallery_item2 {
+		grid-column: 1 / span 1;
+		grid-row: 2 / span 1;
+	}
+
+	.gallery_item3 {
+		grid-column: 2 / span 1;
+		grid-row: 1 / span 2;
+	}
+
+	.gallery_item4 {
+		grid-column: 1 / span 1;
+		grid-row: 3 / span 2;
+	}
+
+	.gallery_item5 {
+		grid-column: 2 / span 1;
+		grid-row: 3 / span 1;
+	}
+
+	.gallery_item6 {
+		grid-column: 2 / span 1;
+		grid-row: 4 / span 1;
+	}
+}
+
+@media screen and (max-width: 650px) {
+	.gallery {
+		display: block;
+	}
+
+	.gallery_item {
+		margin: 0.5rem;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	.logo-txt {
+		font-size: 30px;
+	}
+	.hero-text h1 {
+		font-size: 30px;
+	}
+}
