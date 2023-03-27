@@ -255,6 +255,17 @@ footer > h2 {
 	grid-row: 4 / span 1;
 }
 
+/*--------------------------contact form page----------------*/
+
+.contact_form {
+	border-radius: 5px;
+	background-color: #fa8334;
+	padding: 20px;
+	width: 50%;
+	margin: 5% auto;
+	font-weight: 500;
+}
+
 /*--------------------------------------responsive css breakpoints---------------------------------*/
 
 @media screen and (max-width: 1300px) {
