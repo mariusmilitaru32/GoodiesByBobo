@@ -123,20 +123,24 @@ a:link {
 	flex-direction: row;
 	text-align: center;
 	justify-content: center;
+	flex-wrap: wrap;
+	width: 100%;
 }
 
 .index-gallery-col {
-	padding: 3%;
-	margin: 3%;
+	padding: 30px;
+	margin: 2%;
+	align-items: center;
+	text-align: center;
 }
 
 .index-gallery-col > p {
-	font-size: large;
-	font-weight: 300;
+	font-size: 14px;
+	font-weight: 400;
 }
 
 .index-gallery-col > img {
-	max-width: 100%;
+	width: 100%;
 	height: auto;
 	border-radius: 10px;
 }
