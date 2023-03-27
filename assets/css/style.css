@@ -276,6 +276,11 @@ footer > h2 {
 	margin-bottom: 16px;
 }
 
+form h3 {
+	padding: 20px;
+	text-align: center;
+}
+
 /*--------------------------------------responsive css breakpoints---------------------------------*/
 
 @media screen and (max-width: 1300px) {
