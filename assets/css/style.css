@@ -83,12 +83,12 @@ a:link {
 	justify-content: center;
 }
 .hero-text {
-	width: 50%;
+	width: 70%;
 	text-align: center;
 }
 
 .hero-text h2 {
-	font-size: 50px;
+	font-size: 40px;
 	color: #ffe882;
 }
 
@@ -377,11 +377,14 @@ textarea {
 	}
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 420px) {
 	.logo-txt {
 		font-size: 30px;
 	}
-	.hero-text h1 {
+	.hero-text h2 {
 		font-size: 30px;
+	}
+	.hero-text P {
+		font-size: 15px;
 	}
 }
