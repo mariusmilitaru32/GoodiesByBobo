@@ -302,6 +302,14 @@ textarea {
 	color: #388497;
 	font-weight: 700;
 }
+
+.submit-btn {
+	background-color: #388497;
+	color: aliceblue;
+	padding: 15px;
+	border-radius: 4px;
+	cursor: pointer;
+}
 /*--------------------------------------responsive css breakpoints---------------------------------*/
 
 @media screen and (max-width: 1300px) {
