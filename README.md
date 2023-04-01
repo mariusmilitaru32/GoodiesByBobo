@@ -42,5 +42,5 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
 ## Features
 
    - ### Navigation bar
-    The navigation bar is an essential component of a website's user interface, as it helps users navigate the site and find the content they are looking for quickly and easily. The navbar consist of logo text and links to all three pages (home,gallery and contact). 
+     - The navigation bar is an essential component of a website's user interface, as it helps users navigate the site and find the content they are looking for quickly and easily. The navbar consist of logo text and links to all three pages (home,gallery and contact). 
   ![Navbar](documentation/navigation.png)
