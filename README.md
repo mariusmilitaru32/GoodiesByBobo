@@ -144,6 +144,21 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
 | As a website administrator, I would like to easy update customer reviews                                    | ![screenshot](documentation/homepage-review.png)   |
 | As a website administrator, I would like to easy get contacted by email, phone or contact form.             | ![screenshot](documentation/contact-address.png)   |
 
+ - ### Lighthouse test
+   
+   | Page      | Device  | Screenshot                                                    | Notes                                                                                        |
+   | --------- | ------- | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+   | Home      | Mobile  | ![screenshot](documentation/Lighthouse-homepage-mobile.png)   | 88 Performance due to time at which the first text or image is painted while on a 3G network |
+   | Home      | Desktop | ![screenshot](documentation/Lighthouse-homepage-desktop.png)  |                                                                                              |
+   | Gallery   | Mobile  | ![screenshot](documentation/Lighthouse-gallery-mobile.png)    | 84 Performance due to time at which the first text or image is painted while on a 3G network |
+   | Gallery   | Desktop | ![screenshot](documentation/Lighthouse-gallery-desktop.png)   | 80 Performance due to having a image gallery                                                 |
+   | Contact   | Mobile  | ![screenshot](documentation/Lighthouse-contact-mobile.png)    | 87 Performance due to time at which the first text or image is painted while on a 3G network |
+   | Contact   | Desktop | ![screenshot](documentation/Lighthouse-contact-desktop.png)   |                                                                                              |
+   | Submitted | Mobile  | ![screenshot](documentation/Lighthouse-submitted-mobile.png)  |                                                                                              |
+   | Submitted | Desktop | ![screenshot](documentation/Lighthouse-submitted-desktop.png) |                                                                                              |
+
+
+
 
 - ### Responsiveness
    - The website was tested on Chrome, Mozilla and Edge browsers with no problems found. The website has been tested on different screen size using Google Chrome developer tool simulating devices like Iphone 12 Pro, Samsung S20 Ultra, Surface Pro 7 and Ipad Air. 
