@@ -94,7 +94,7 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
    -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
    -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
- - ### Frameworks, Libraries & Programs Used
+ - ### Frameworks, Libraries and Programs Used
 
    -   [Google Fonts:](https://fonts.google.com/) was used to import the 'Monsserat' font into the style.css file 
    -   [Font Awesome:](https://fontawesome.com/) was used to add icons for social links.
