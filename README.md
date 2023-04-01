@@ -53,3 +53,6 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
     - Products offers can been seen right under hero image where this section contains three collums with images and a short description for each type of product the business can offer.
   ![Homepage-products](documentation/homepage-products.png)
     - Homepage customer reviews section can be found under products offer, they provide a valuabe feedback on the products. They help to establish trust with potential customers and can influence their purchasing decision. 
+  ![Homepage-review](documentation/homepage-review.png)
+  - ### Gallery Page
+    -
