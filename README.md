@@ -8,13 +8,10 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
 
 
 ## Index – Table of Contents
-* [User Experience (UX)](#user-experience-ux) 
-* [Features](#features)
-* [Design](#design)
-* [Technologies Used](#technologies-used)
-* [Testing](#testing)
-* [Deployment](#deployment)
-* [Credits](#credits)
+- [Index – Table of Contents](#index--table-of-contents)
+- [User Experience (UX)](#user-experience-ux)
+- [Features](#features)
+- [Design](#design)
 
 
 ## User Experience (UX)
@@ -23,7 +20,7 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
 
   -   #### A. First Time Visitor 
 
-        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+        1. As a First Time Visitor, I want to easily understand the main purpose of the site.
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
         3. As a First Time Visitor, I want to be able to easily navigate and view a gallery page and customer reviews.
         4. As a First Time Visitor, I want to be able to easily find how I can get in contact with the business owner.
@@ -58,3 +55,12 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
     - The gallery page has a simple design with a responsive layout using three breakpoints, starting with three collums for large devices like laptops and wide monitors, two collums for medium devices and one collum for smartphones 
  ![Gallery-page](documentation/gallery-feature.png)
   - ### Contact page
+    - Contact form can be found on contact page. I have include a Contact us header with the following required fields: first name, last name, email address, message/feedback for the business owner and the submit button which create a pull requested to the subbmited page after the form has been successfully submitted.
+  ![contact-forc](documentation/contact-form.png)
+    - Email, Phone Number and Address with gogole maps iframe can be found under the contact form. Features like mailto and tel have been used for an easy contact when using a smarthphone.
+  ![contact-sddress](documentation/contact-address.png)
+- ### Submitted page
+   - This page has been used as a confirmation for the contact form. 
+  ![submitted](documentation/submitted.png)
+
+## Design
