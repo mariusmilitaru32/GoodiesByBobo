@@ -15,7 +15,6 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
 - [Technologies Used](#technologies-used)
 - [Testing](#testing)
 - [Deployment](#deployment)
-  - [How this site was deployed](#how-this-site-was-deployed)
 
 
 ## User Experience (UX)
@@ -24,16 +23,16 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
 
   -   #### A. First Time Visitor 
 
-        1. As a First Time Visitor, I want to easily understand the main purpose of the site.
-        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-        3. As a First Time Visitor, I want to be able to easily navigate and view a gallery page and customer reviews.
-        4. As a First Time Visitor, I want to be able to easily find how I can get in contact with the business owner.
+        1. As a first time visitor, I want to easily understand the main purpose of the site.
+        2. As a first time visitor, I want to be able to easily navigate throughout the site to find content.
+        3. As a first time visitor, I want to be able to easily view a gallery page.
+        4. As a first time visitor, I want to be able to easily find how I can get in contact with the business owner.
 
    -   #### B. Returning Visitor 
 
-        1. As a Returning Visitor, I want to be able to send a quick feedback to the business owner.
-        2. As a Returning Visitor, I want to be able to check new products images.
-        3. As a Returning Visitor, I want to be able to contact the business owner through email or phone.
+        1. As a returning visitor, I want to be able to send a quick feedback to the business owner.
+        2. As a returning visitor, I want to be able to check new products images.
+        3. As a returning visitor, I want to be able to contact the business owner through email or phone.
 
     -  #### C. Website Administrator
         1. As a website administrator, I would like to easy update new and existing products.
@@ -130,9 +129,25 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
 - ### Manual testing and results
   ![Manual-testing](documentation/Manul-testing.png)
   
+ - ### User Story Testing
+
+
+| User Story                                                                                                  | Screenshot                                         |
+| ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| As a first time visitor, I want to easily understand the main purpose of the site.                          | ![screenshot](documentation/homepage-hero.png)     |
+| As a first time visitor, I want to be able to easily navigate throughout the site to find content.          | ![screenshot](documentation/navigation.png)        |
+| As a first time visitor, I want to be able to easily view a gallery page                                    | ![screenshot](documentation/gallery-feature.png)   |
+| As a first time visitor, I want to be able to easily find how I can get in contact with the business owner. | ![screenshot](documentation/contact-address.png)   |
+| As a returning visitor, I want to be able to send a quick feedback to the business owner.                   | ![screenshot](documentation/contact-form.png)      |
+| As a returning visitor, I want to be able to check new products images.                                     | ![screenshot](documentation/homepage-products.png) |
+| As a returning visitor, I want to be able to contact the business owner through email or phone.             | ![screenshot](documentation/contact-address.png)   |
+| As a website administrator, I would like to easy update customer reviews                                    | ![screenshot](documentation/homepage-review.png)   |
+| As a website administrator, I would like to easy get contacted by email, phone or contact form.             | ![screenshot](documentation/contact-address.png)   |
+
+
 ## Deployment
 
-### How this site was deployed
+- ### How this site was deployed
 
 - In the GitHub repository, navigate to the Settings tab, then choose Pages from the left hand menu 
 - From the source section drop-down menu, select the Master Branch
