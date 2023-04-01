@@ -12,6 +12,7 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
 - [User Experience (UX)](#user-experience-ux)
 - [Features](#features)
 - [Design](#design)
+- [Technologies Used](#technologies-used)
 
 
 ## User Experience (UX)
@@ -65,7 +66,7 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
 
 ## Design
 - ### Color scheme
-  - The business owner has requested blue, orange andf yellow as main colors for the website. I used [coolors.co](https://coolors.co/) to generate my colour palette.
+  - The business owner has requested blue, orange and yellow as main colors for the website. I used [coolors.co](https://coolors.co/) to generate my colour palette.
   ![color-pallete](documentation/colors.png)
 
 - ### Typography
@@ -86,5 +87,19 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
      [Submitted page desktop](documentation/submitted-wf-desktop.png)<br>
      [Submitted page mobile](documentation/submitted-wf-mobile.png)
 
+## Technologies Used
 
+ - ### Languages Used
+
+   -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+   -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+ - ### Frameworks, Libraries & Programs Used
+
+   -   [Google Fonts:](https://fonts.google.com/) was used to import the 'Monsserat' font into the style.css file 
+   -   [Font Awesome:](https://fontawesome.com/) was used to add icons for social links.
+   -   [Git:](https://git-scm.com/) was used for version control by utilising VSCode terminal to commit to Git and Push to GitHub.
+   -   [GitHub:](https://github.com/) was used as the respository for the projects code after being pushed from Git.
+   -   [Visual Studio Code](https://code.visualstudio.com/) was used as IDE editor.
+   -   [Balsamiq:](https://balsamiq.com/) was used to create the wireframes.
  
