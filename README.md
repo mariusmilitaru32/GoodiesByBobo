@@ -13,6 +13,9 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
 - [Features](#features)
 - [Design](#design)
 - [Technologies Used](#technologies-used)
+- [Testing](#testing)
+- [Deployment](#deployment)
+  - [How this site was deployed](#how-this-site-was-deployed)
 
 
 ## User Experience (UX)
@@ -103,3 +106,37 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
    -   [Visual Studio Code](https://code.visualstudio.com/) was used as IDE editor.
    -   [Balsamiq:](https://balsamiq.com/) was used to create the wireframes.
  
+ ## Testing
+
+  - ### Validator Testing
+
+    - [HTML Validator](https://validator.w3.org/)
+    - [HTML results home page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmariusmilitaru32.github.io%2FGoodiesByBobo%2Findex.html)
+    - [HTML results gallery page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmariusmilitaru32.github.io%2FGoodiesByBobo%2Fgallery.html)
+    - [HTML results contact page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmariusmilitaru32.github.io%2FGoodiesByBobo%2Fcontact.html)
+    - [HTML results submitted page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmariusmilitaru32.github.io%2FGoodiesByBobo%2Fsubmitted.html)
+
+   - [CSS Validator](https://jigsaw.w3.org/css-validator/)
+  ![CSS-validator](documentation/css-validator.png)
+  - [Full CSS Validation here](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmariusmilitaru32.github.io%2FGoodiesByBobo%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)    
+
+- ### Browser Compatibility
+
+  - Testing has been carried out on the following browsers :
+    - Chrome Version 111.0.5563.146 (Relase date: 2023-03-28) (64-bit)
+    - Firefox Version 109.0 (Relase date: January 17, 2023) (64-bit)
+    - Edge Version 111.0.1661.54 (Relase date: March 24, 2023) (64-bit)
+    - I could not test it on safari because I am using Windows
+- ### Manual testing and results
+  ![Manual-testing](documentation/Manul-testing.png)
+  
+## Deployment
+
+### How this site was deployed
+
+- In the GitHub repository, navigate to the Settings tab, then choose Pages from the left hand menu 
+- From the source section drop-down menu, select the Master Branch
+- Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment
+- Any changes pushed to the master branch will take effect on the live project
+
+[View the live project here](https://mariusmilitaru32.github.io/GoodiesByBobo/)
