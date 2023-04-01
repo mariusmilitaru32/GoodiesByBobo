@@ -72,13 +72,19 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
   - Google Fonts were used to import Montserrat into style.css
 
 
-- ### Wireframe 
-   - Home page
-- ![Homepage-desktop](documentation/index-desktop.png)
-  ![Homepage-mobile](documentation/index-mobile.png)
-   - Gallery page
-  ![Gallerypage-desktop](documentation/gallery-desktop.png)
-  ![Gallerypage-mobile](documentation/gallery-mobile.png)
-   - Contact page
-  ![Contactpage-desktop](documentation/contact.desktop.png)
-  ![Contactpage-mobile](documentation/contact-mobile.png)
+- ### Wireframes 
+   - Home page <br>
+     [Home page desktop](documentation/index-desktop.png)<br>
+     [Home page mobile](documentation/index-mobile.png)
+   - Gallery page <br>
+     [Gallery page desktop](documentation/gallery-desktop.png)<br>
+     [Gallery page mobile](documentation/gallery-mobile.png)
+   - Contact page <br>
+     [Contact page desktop](documentation/contact.desktop.png)<br>
+     [Contact page mobile](documentation/contact-mobile.png)
+   - Submitted page <br>
+     [Submitted page desktop](documentation/submitted-wf-desktop.png)<br>
+     [Submitted page mobile](documentation/submitted-wf-mobile.png)
+
+
+ 
