@@ -64,3 +64,13 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
   ![submitted](documentation/submitted.png)
 
 ## Design
+- ### Color scheme
+  - The business owner has requested blue, orange andf yellow as main colors for the website. I used [coolors.co](https://coolors.co/) to generate my colour palette.
+  ![color-pallete](documentation/colors.png)
+
+- ### Typography
+  - Google Fonts were used to import Montserrat into style.css
+
+
+- ### Wireframe 
+   - Home page
