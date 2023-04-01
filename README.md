@@ -7,11 +7,39 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
 ![Mockup](documentation/responsive.png)
 
 
+## Index – Table of Contents
+* [User Experience (UX)](#user-experience-ux) 
+* [Features](#features)
+* [Design](#design)
+* [Technologies Used](#technologies-used)
+* [Testing](#testing)
+* [Deployment](#deployment)
+* [Credits](#credits)
 
 
+## User Experience (UX)
 
+- ### User stories
 
+  -   #### A. First Time Visitor 
 
+        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+        3. As a First Time Visitor, I want to be able to easily navigate and view a gallery page and customer reviews.
+        4. As a First Time Visitor, I want to be able to easily find how I can get in contact with the business owner.
 
+   -   #### B. Returning Visitor 
 
-# live : https://mariusmilitaru32.github.io/GoodiesByBobo/
+        1. As a Returning Visitor, I want to be able to send a quick feedback to the business owner.
+        2. As a Returning Visitor, I want to be able to check new products images.
+        3. As a Returning Visitor, I want to be able to contact the business owner through email or phone.
+
+    -  #### C. Website Administrator
+        1. As a website administrator, I would like to easy update new and existing products.
+        2. As a website administrator, I would like to easy update customer reviews
+        3. As a website administrator, I would like to easy get contacted by email, phone or contact form.
+   
+## Features
+
+   - ### Navigation bar
+  ![Navbar](documentation/navigation.png)
