@@ -74,3 +74,11 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
 
 - ### Wireframe 
    - Home page
+- ![Homepage-desktop](documentation/index-desktop.png)
+  ![Homepage-mobile](documentation/index-mobile.png)
+   - Gallery page
+  ![Gallerypage-desktop](documentation/gallery-desktop.png)
+  ![Gallerypage-mobile](documentation/gallery-mobile.png)
+   - Contact page
+  ![Contactpage-desktop](documentation/contact.desktop.png)
+  ![Contactpage-mobile](documentation/contact-mobile.png)
