@@ -44,3 +44,11 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
    - ### Navigation bar
      - The navigation bar is an essential component of a website's user interface, as it helps users navigate the site and find the content they are looking for quickly and easily. The navbar consist of logo text and links to all three pages (home,gallery and contact). 
   ![Navbar](documentation/navigation.png)
+  -  ### Footer
+     - The footer is present on all three pages and consist of follow us text and four icons linked to the social business accounts, providing users an easy access to the newest updates.<br>
+    ![Footer](documentation/footer.png)
+  - ### Home page
+    - The home page inludes an hero image with a linear gradient to highlight the welcome text, the business purpose and a contact button to give the user the possibility to contact the business owner
+  ![Homepage](documentation/homepage-hero.png)
+    - Products offers can been seen right under hero image where this section contains three collums with images and a short description for each type of product the business can offer.
+  ![Homepage-products](documentation/homepage-products.png)
