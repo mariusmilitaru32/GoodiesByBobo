@@ -129,8 +129,8 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
 - ### Manual testing and results
   ![Manual-testing](documentation/Manul-testing.png)
   
- - ### User Story Testing
 
+ - ### User Story Testing
 
 | User Story                                                                                                  | Screenshot                                         |
 | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
@@ -143,6 +143,14 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
 | As a returning visitor, I want to be able to contact the business owner through email or phone.             | ![screenshot](documentation/contact-address.png)   |
 | As a website administrator, I would like to easy update customer reviews                                    | ![screenshot](documentation/homepage-review.png)   |
 | As a website administrator, I would like to easy get contacted by email, phone or contact form.             | ![screenshot](documentation/contact-address.png)   |
+
+
+- ### Responsiveness
+   - The website was tested on Chrome, Mozilla and Edge browsers with no problems found. The website has been tested on different screen size using Google Chrome developer tool simulating devices like Iphone 12 Pro, Samsung S20 Ultra, Surface Pro 7 and Ipad Air. 
+
+
+
+
 
 
 ## Deployment
