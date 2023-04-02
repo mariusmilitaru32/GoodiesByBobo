@@ -15,6 +15,10 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
 - [Technologies Used](#technologies-used)
 - [Testing](#testing)
 - [Deployment](#deployment)
+- [Bugs](#bugs)
+- [Unfixed bugs](#unfixed-bugs)
+- [Credits](#credits)
+- [Acknowledgements](#acknowledgements)
 
 
 ## User Experience (UX)
@@ -178,3 +182,30 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
 - Any changes pushed to the master branch will take effect on the live project
 
 [View the live project here](https://mariusmilitaru32.github.io/GoodiesByBobo/)
+
+ ## Bugs
+
+First bug was on the left image from home page because had a smaller height than other two. To solve the bug I had to set the  paragraph text under the image to 14px. 
+Second bug I had was because of Facebook link from footer was not opening in a new tab. To solve the bug I added taget="_blank" to the href Facebook social icon.
+
+## Unfixed bugs
+ - There are not any bugs left that I am aware of.
+
+## Credits
+ - Photos downloaded from [Pexels.com](https://www.pexels.com/)
+   - header-image.jpg by Pixabay
+   - cookie1.jpg by Nicole Michalou
+   - cookie2.jpg by Lina Kivaka
+   - cookie3.jpg by Nadin Trosh
+   - user1.jpg by ibadat singh
+   - user2.jpg by Anna Tarazevich
+   - rating.jpg downloaded from [pixabay](https://pixabay.com/images/search/star%20rating/)
+   - All other images from gallery page have been provided by the business owner.
+  - Code 
+    - The code for responsive image gallery have been adapted from [Terryl Brown](https://www.youtube.com/watch?v=nEej0A08RYs) youtube channel  
+    - Contact form code have been adapted from [w3schools](https://www.w3schools.com/howto/howto_css_contact_form.asp)
+     
+
+## Acknowledgements
+ - I would like to thank [Nathan Parry_4P_cohort_lead](https://code-institute-room.slack.com/team/U04EX23NTND) for looking at my project and idetifing the image and footer icon bug.
+ - I would like to thank [Codeinstitute](https://codeinstitute.net/) slack community for helping me during my project.
