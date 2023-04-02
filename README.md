@@ -208,4 +208,4 @@ Second bug I had was because of Facebook link from footer was not opening in a n
 
 ## Acknowledgements
  - I would like to thank [Nathan Parry_4P_cohort_lead](https://code-institute-room.slack.com/team/U04EX23NTND) for looking at my project and idetifing the image and footer icon bug.
- - I would like to thank [Codeinstitute](https://codeinstitute.net/) slack community for helping me during my project.
+ - I would like to thank [Codeinstitute](https://codeinstitute.net/) slack community for helping me during my studies and project creation.
