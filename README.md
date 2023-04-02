@@ -165,6 +165,10 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
 
 - ### Responsiveness
    - The website was tested on Chrome, Mozilla and Edge browsers with no problems found. The website has been tested on different screen size using Google Chrome developer tool simulating devices like Iphone 12 Pro, Samsung S20 Ultra, Surface Pro 7 and Ipad Air. 
+   - [Iphone 12 Pro DevTool Screenshoot](documentation/responsive-Iphone12Pro.png)
+   - [Samsung S20 Ultra Screenshoot](documentation/responsive-s20.png)
+   - [Ipad Air Screenshoot](documentation/responsive-IpadAir.png)
+   - [Desktop Screenshoot](documentation/responsive-desktop.png)
 
 
 
