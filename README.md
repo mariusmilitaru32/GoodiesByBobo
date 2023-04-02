@@ -39,8 +39,8 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
         3. As a returning visitor, I want to be able to contact the business owner through email or phone.
 
     -  #### C. Website Administrator
-        1. As a website administrator, I would like to easly update customer reviews
-        2. As a website administrator, I would like to easly get contacted by email, phone or contact form.
+        1. As a website administrator, I would like to easily update customer reviews
+        2. As a website administrator, I would like to easily get contacted by email, phone or contact form.
    
 ## Features
 
@@ -144,8 +144,8 @@ GoodiesByBobo is a business that primarly sells home made cookies and cakes.I cr
 | As a returning visitor, I want to be able to send a quick feedback to the business owner.                   | ![screenshot](documentation/contact-form.png)      |
 | As a returning visitor, I want to be able to check new products images.                                     | ![screenshot](documentation/homepage-products.png) |
 | As a returning visitor, I want to be able to contact the business owner through email or phone.             | ![screenshot](documentation/contact-address.png)   |
-| As a website administrator, I would like to easly update customer reviews                                   | ![screenshot](documentation/homepage-review.png)   |
-| As a website administrator, I would like to easly get contacted by email, phone or contact form.            | ![screenshot](documentation/contact-address.png)   |
+| As a website administrator, I would like to easily update customer reviews                                  | ![screenshot](documentation/homepage-review.png)   |
+| As a website administrator, I would like to easily get contacted by email, phone or contact form.           | ![screenshot](documentation/contact-address.png)   |
 
  - ### Lighthouse test
    
